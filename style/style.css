@@ -124,9 +124,10 @@ body {
 
 .six .hat {
   position: absolute;
-  width: 80px;
-  top: -35px;
-  left: 35%;
+  width: 200px;
+  height: 200px;
+  top: -50px;
+  left: -150px;
   /* transform: scale(0.1); */
 }
 
